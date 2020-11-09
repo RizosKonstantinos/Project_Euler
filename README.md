@@ -29,7 +29,7 @@ where I upload my solutions for the first 100 problems.
 However, i created a second **```private```** repository containing my solutions for problems that are greater than 100. If anyone wants to access this repository, feel free
 to ask for it with an issue and i will grant you access.
 
-**Note:** This is a work in progress. Currently i'm working on **```problem 4```**, so the private repository is not created yet.
+**Note: This is a work in progress. Currently i'm working on **```problem 5```**, so the private repository is not created yet.**
 
 >“It does not matter how slowly you go as long as you do not stop.”
 >
@@ -41,8 +41,9 @@ Below is a list containing the problems that i have solved so far.
 | **ID** | **Description / Title** | **Programming language** | **Status** |
 |--------|:------------------------|:------------------------:|:----------:|
 |1|Multiples of 3 and 5 |Java| Public
-| 2 |Even Fibonacci numbers |Java| Public
-| 3 |Largest prime factor |Java| Public
+|2|Even Fibonacci numbers |Java| Public
+|3|Largest prime factor |Java| Public
+|4|Largest palindrome product |Java|Public
 
 
 
