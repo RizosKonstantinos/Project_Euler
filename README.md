@@ -29,7 +29,7 @@ where I upload my solutions for the first 100 problems.
 However, i created a second **```private```** repository containing my solutions for problems that are greater than 100. If anyone wants to access this repository, feel free
 to ask for it with an issue and i will grant you access.
 
-**Note: This is a work in progress. Currently i'm working on **```problem 5```**, so the private repository is not created yet.**
+**Note: This is a work in progress. Currently i'm working on **```problem 6```**, so the private repository is not created yet.**
 
 >“It does not matter how slowly you go as long as you do not stop.”
 >
