@@ -44,6 +44,7 @@ Below is a list containing the problems that i have solved so far.
 |2|Even Fibonacci numbers |Java| Public
 |3|Largest prime factor |Java| Public
 |4|Largest palindrome product |Java|Public
+|5|Smallest multiple|Java|Public
 
 
 
